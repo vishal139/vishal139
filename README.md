@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal139
 - 👀 I’m interested in Web Development and coding 
-- 🌱 I’m currently learning ASP.NET CORE MVC
+- 🌱 I’m currently learning MERN development
 - 💞️ I’m looking to collaborate on any project related to web development
 - 📫 How to reach me vishalkachhap62@gmail.com
 
